@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96588312595",
+    "firebase_url": "https://taskifirebaseversion.firebaseio.com",
+    "project_id": "taskifirebaseversion",
+    "storage_bucket": "taskifirebaseversion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96588312595:android:9b0b5764639ca2ec5a4fe6",
+        "android_client_info": {
+          "package_name": "com.example.taski_firebase_version"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96588312595-ak8ivm0563pusdl8016v4kp4iq6d7cfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taski_firebase_version",
+            "certificate_hash": "6471d506efe44d97f155ba35522e9b58818dbdf2"
+          }
+        },
+        {
+          "client_id": "96588312595-vvod718ptlq05p8km96gc34hlphnur96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASFIwY6B_SfIIp0W0qZX2Ldh457G2Dgmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96588312595-vvod718ptlq05p8km96gc34hlphnur96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

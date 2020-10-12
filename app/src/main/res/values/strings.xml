@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taski_Firebase_Version</string>
+    <array name="colors">
+        <item>Do</item>
+        <item>Decide</item>
+        <item>Delegate</item>
+        <item>Eliminate</item>
+    </array>
+</resources>
